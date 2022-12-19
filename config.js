@@ -35,7 +35,9 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
+        "我们第一张合照": "./imgs/xiaokeai.png",
+         "我们第一次踏出校门": "./imgs/xiaokeai.png",
+         "我们俩的专属情侣微信号": "./imgs/xiaokeai.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
