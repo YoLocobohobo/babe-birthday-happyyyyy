@@ -35,7 +35,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "我们第一张合照": "./imgs/wonvshen1.jpg",
+        "最亲爱的西兰花公主殿下": "./imgs/lopolopo.jpg",
          "我们第一次踏出校门": "./imgs/wonvshen11.jpg",
          "我们俩的专属情侣微信号": "./imgs/wonvshen22.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
