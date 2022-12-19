@@ -36,8 +36,6 @@ var config = {
      */
     imgs: {
         "最亲爱的西兰花公主殿下": "./imgs/lopolopo.jpg",
-         "我们第一次踏出校门": "./imgs/wonvshen11.jpg",
-         "我们俩的专属情侣微信号": "./imgs/wonvshen22.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
